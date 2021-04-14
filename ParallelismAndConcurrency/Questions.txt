@@ -1,0 +1,16 @@
+GEO:What is the capital of Australia?:Sydney:Canberra:Melbourne:Brisbane:2
+GEO:What is the capital of Indonesia?:Jakarta:Kuala Lumpur:Bali:Sulawesi:1
+ART:What nationality was Chopin?:French:German:Polish:Italian:3
+ART:Who cut off Van Gogh's ear?:Himself:his wife:a friend:a thieve:1
+SCIENCE:How many colours are there in the rainbow?:5:6:7:8:3
+SCIENCE:Who invented the telephone?:Edison:Marconi:Maxwell:Bell:4
+ART:Who lived at 221B, Baker Street, London?:The Prime Minister:The Queen:Sherlock Holmes:Mrs. Marple:3
+ART:Who painted the Mona Lise?:Rafaello:Da Vinci:Miquelangelo:Velazquez:2
+ART:What did the 7 dwarves do for a job?:Miners:Carpenters:Unemployed:Builders:1
+GEO:Where are the Dolomites?:Greece:Turkey:France:Italy:4
+GEO:Which is Britain's second largest city?:Birmingham:Liverpool:Glasgow:Belfast:1
+GEO:Where are the Luxembourg Gardens?:Rome:Paris:Luxembourg:London:2
+SCIENCE:Which ot these planets is nearest to the sun?:Mars:Pluto:Mercury:Venus:3
+SCIENCE:Where is the smallest bone in the body?:Mouth:Ear:Finger:Shoulder:2
+SCIENTE: What is tre rarest blood type?:AB-:A+:A-:B+:1
+GEO:The World's most active volcano is located in...:Java:Sicily:Hawaii:Iceland:3
